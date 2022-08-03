@@ -1,0 +1,17 @@
+[
+  {
+    "id" : 1 ,
+    "name" : "Coke" ,
+    "price" : 18
+  } ,
+  {
+    "id" : 2 ,
+    "name" : "Coke" ,
+    "price" : 28
+  } ,
+  {
+    "id" : 3 ,
+    "name" : "Pepsi" ,
+    "price" : 19
+  }
+]
